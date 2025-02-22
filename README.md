@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### with me:
 
 <p align="center">
@@ -14,3 +15,12 @@
 <p align="center">
 <img src="icons/youtube.png">
 <p>
+=======
+<<<<<<< HEAD
+“ my project”
+ myProject
+=======
+# devops
+>>>>>>> 76d7551a289dd67e744313d813930f28882ccbb4
+ myFirstDevOps
+>>>>>>> 3d029561a57dd000df3ba6780834bbd57d386b9a
